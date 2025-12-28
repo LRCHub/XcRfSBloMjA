@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "只是太愛你(國)",
+  "base_artist": "張敬軒",
+  "createdAt": "2025-12-28T14:39:55.466493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "只是太愛你 (國) [Live]",
+      "artist": "Hins Cheung",
+      "has_synced": false,
+      "path": "select/01_只是太愛你_(國)_[Live]_Hins_Cheung.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "只是太愛你",
+      "artist": "張敬軒",
+      "has_synced": false,
+      "path": "select/pl_01_只是太愛你_張敬軒.txt"
+    }
+  ]
+}
